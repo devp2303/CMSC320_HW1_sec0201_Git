@@ -1,4 +1,3 @@
-
 Q1: Why might we consider using Git?
 
 Answer: We use Git basically for version control. git lets you store the entire history of a software project in a repository, and introduce changes to that repository in a controlled way, allowing coordination between many people without accidentally overwriting or corrupting files.
@@ -6,4 +5,12 @@ Answer: We use Git basically for version control. git lets you store the entire 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to so many different fields. It can be applied to healthcare, finance, sports, and much more.
+
+Q3: What is the difference between Merging and Rebasing? 
+
+Answer: Git merge keeps the commit sequence intact by combining the histories of the two branches into a single branch. Git rebases rewrites history by putting changes from one branch at the beginning of another, resulting in a more organized project history.
+
+Q4: What are you looking forward to this semester? 
+
+Answer: I am looking forward to learning so much knowledge about data science and applying it forward. 
 
