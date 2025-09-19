@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: We use Git basically for version control. git lets you store the entire history of a software project in a repository, and introduce changes to that repository in a controlled way, allowing coordination between many people without accidentally overwriting or corrupting files
+
